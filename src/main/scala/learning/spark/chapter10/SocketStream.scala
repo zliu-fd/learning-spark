@@ -1,4 +1,4 @@
-package learning.spark.chapter9
+package learning.spark.chapter10
 
 import org.apache.spark.SparkConf
 import org.apache.spark.streaming.{Seconds, StreamingContext}
